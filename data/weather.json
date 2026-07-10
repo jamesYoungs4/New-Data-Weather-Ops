@@ -13,25 +13,25 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 19.44,
-    "feels_like": 19.14,
-    "temp_min": 19.44,
-    "temp_max": 20.02,
-    "pressure": 1019,
-    "humidity": 65,
-    "sea_level": 1019,
-    "grnd_level": 1020
+    "temp": 17.22,
+    "feels_like": 17.11,
+    "temp_min": 17.22,
+    "temp_max": 17.8,
+    "pressure": 1020,
+    "humidity": 81,
+    "sea_level": 1020,
+    "grnd_level": 1021
   },
   "visibility": 10000,
   "wind": {
-    "speed": 3.64,
-    "deg": 88,
-    "gust": 8.32
+    "speed": 3.07,
+    "deg": 86,
+    "gust": 6.05
   },
   "clouds": {
-    "all": 10
+    "all": 7
   },
-  "dt": 1783717538,
+  "dt": 1783724338,
   "sys": {
     "type": 2,
     "id": 2016703,
@@ -43,5 +43,5 @@
   "id": 2633771,
   "name": "Wisbech",
   "cod": 200,
-  "_last_updated_utc": "2026-07-10T21:05:38.828Z"
+  "_last_updated_utc": "2026-07-10T22:58:58.207Z"
 }
